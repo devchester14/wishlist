@@ -9,7 +9,7 @@ Wishlit is a super cool to add your bucket list, and have stored for a life time
 
 ## Author
 
-- Prakash Sakari - follow me on 👇
+- Praveen Rawat - follow me on 👇
 - [GitHub](https://www.github.com/devchester14)
 - [LinkedIn](https://www.linkedin.com/in/praveenrawat1412/)
 
